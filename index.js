@@ -2,8 +2,14 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 5000;
 
+const courses = require("./data/courses.json");
+
 app.get("/", (req, res) => {
   res.send("Api running");
+});
+
+app.get("/course-list", (req, res) => {
+  res.send(courses);
 });
 
 app.listen(port, () => {
