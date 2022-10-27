@@ -10,7 +10,7 @@
   },
   {
     "_id": "0282e2e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "Python for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -19,7 +19,7 @@
   },
   {
     "_id": "0282e3e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "C for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -28,7 +28,7 @@
   },
   {
     "_id": "0282e4e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "JavaScript for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -37,7 +37,7 @@
   },
   {
     "_id": "0282e5e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "SQL for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -46,7 +46,7 @@
   },
   {
     "_id": "0282e6e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "React for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -55,7 +55,7 @@
   },
   {
     "_id": "0282e7e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "07",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "HTML and CSS for Beginers",
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
